@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username==nick-uwu-0325">
 
-325 🔭 我是明道大學（MDSH）的學生
+325 🔭 我是明道中學（MDSH）的學生
 
 - 🌱 我目前正在學習**Python**
 
